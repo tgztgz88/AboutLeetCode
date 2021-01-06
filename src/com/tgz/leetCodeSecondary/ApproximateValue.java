@@ -1,7 +1,6 @@
-package com.tgz;
+package com.tgz.leetCodeSecondary;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class ApproximateValue {

@@ -1,8 +1,4 @@
-package com.tgz;
-
-import java.util.Arrays;
-
-import static jdk.nashorn.internal.objects.Global.print;
+package com.tgz.leetCodeSimple;
 
 public class RemoveElement {
     public int removeElement(int[] nums, int val) {

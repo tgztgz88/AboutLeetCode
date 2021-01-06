@@ -1,4 +1,4 @@
-package com.tgz;
+package com.tgz.leetCodeSecondary;
 
 public class Conunter {
     private volatile int count=0;

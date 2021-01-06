@@ -1,4 +1,4 @@
-package com.tgz;
+package com.tgz.leetCodeSecondary;
 
 public class AddTwoNumbersTest {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
@@ -47,5 +47,6 @@ class ListNode {
       int val;
       ListNode next;
       ListNode(int x) { val = x; }
+       ListNode(int val, ListNode next) { this.val = val; this.next = next; }
       ListNode() {  }
   }

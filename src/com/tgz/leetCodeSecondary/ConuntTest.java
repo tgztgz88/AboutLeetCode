@@ -1,4 +1,4 @@
-package com.tgz;
+package com.tgz.leetCodeSecondary;
 
 public class ConuntTest {
     public static void main(String[] args) {

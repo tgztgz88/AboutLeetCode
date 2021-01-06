@@ -1,7 +1,4 @@
-package com.tgz;
-
-import java.util.LinkedHashMap;
-import java.util.TreeMap;
+package com.tgz.leetCodeSimple;
 
 public class TestRobot {
 

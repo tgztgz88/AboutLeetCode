@@ -1,4 +1,4 @@
-package com.tgz;
+package com.tgz.leetCodeSimple;
 
 public class singleton_innerTest {
     public static void main(String[] args) {

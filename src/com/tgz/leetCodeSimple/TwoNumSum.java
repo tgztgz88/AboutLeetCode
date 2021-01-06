@@ -1,6 +1,4 @@
-package com.tgz;
-
-import java.util.Arrays;
+package com.tgz.leetCodeSimple;
 
 public class TwoNumSum {
     public int[] twoSum(int[] nums, int target) {

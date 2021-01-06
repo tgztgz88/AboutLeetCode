@@ -1,4 +1,4 @@
-package com.tgz;
+package com.tgz.leetCodeSecondary;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

@@ -1,4 +1,4 @@
-package com.tgz;
+package com.tgz.leetCodeSimple;
 
 import java.util.Date;
 
